@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zaharlitvinchuk@outlook.com**
 
-- ⚡ Fun fact **I really like develope with material ui components.**
+- ⚡ Fun fact **I really like develop with material ui components.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
