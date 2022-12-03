@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
 <h1 align="center">Hi 👋, I'm Zakhar Litvinchuk</h1>
-<h3 align="center">A passionate flutter / react developer from Russia 🇷🇺</h3>
+<h3 align="center">A passionate flutter developer from Russia 🇷🇺</h3>
 
 <img align= «right» width=«400» src=«https://cdn.dribbble.com/users/1894420/screenshots/11563516/media/abc4d54106c0d84edc9d9ce992ec5306.gif»>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [MISIS geeks](https://github.com/zaharichswiftly/misis_geeks)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter, React**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **zaharlitvinchuk@outlook.com**
 
