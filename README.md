@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaharichswiftly&label=Profile%20views&color=995dc9&style=plastic" alt="zaharichswiftly" /> </p>
 
-- 🔭 I’m currently working on [MISIS geeks](https://github.com/zaharichswiftly/misis_geeks)
+- 🔭 I’m currently working on [MISIS Atlantis](https://github.com/ParkieV/XmasHack)
 
 - 🌱 I’m currently learning **Flutter**
 
