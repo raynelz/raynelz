@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [MISIS Atlantis](https://github.com/ParkieV/XmasHack)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **zaharlitvinchuk@outlook.com**
 
