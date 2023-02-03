@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Zakhar Litvinchuk</h1>
 <h3 align="center">A passionate flutter developer from Russia 🇷🇺</h3>
 
-<img align= «right» width=«400» src=«https://cdn.dribbble.com/users/1894420/screenshots/11563516/media/abc4d54106c0d84edc9d9ce992ec5306.gif»>
+<img align= «right» width=«400» src=«https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932»>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaharichswiftly&label=Profile%20views&color=995dc9&style=plastic" alt="zaharichswiftly" /> </p>
 
