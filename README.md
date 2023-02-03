@@ -1,9 +1,7 @@
-![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+![MasterHead](https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932)
 
 <h1 align="center">Hi 👋, I'm Zakhar Litvinchuk</h1>
 <h3 align="center">A passionate flutter developer from Russia 🇷🇺</h3>
-
-<img align= «right» width=«400» src=«https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932»>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaharichswiftly&label=Profile%20views&color=995dc9&style=plastic" alt="zaharichswiftly" /> </p>
 
