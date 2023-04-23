@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **zaharlitvinchuk@outlook.com**
+- 📫 How to reach me **zahar@raynelz.ru**
 
 - ⚡ Fun fact **I really like develope with material ui components.**
 
