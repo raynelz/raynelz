@@ -1,15 +1,15 @@
 ![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)
 
 <h1 align="left">Hi 👋, I'm Zakhar Litvinchuk</h1>
-<h3 align="left">A passionate React developer from Russia 🇷🇺</h3>
+<h3 align="left">A passionate Flutter developer from Russia 🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaharichswiftly&label=Profile%20views&color=995dc9&style=plastic" alt="zaharichswiftly" /> </p>
 
 - 🔭 I’m currently working on [MISIS Atlantis](https://github.com/ParkieV/XmasHack)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter Bloc**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **zahar@raynelz.ru**
 
