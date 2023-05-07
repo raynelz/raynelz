@@ -1,7 +1,6 @@
 ### Hi there 👋, Zahar Litvinchuk
 #### I am mobile developer from Russia 🇷🇺
-![I am mobile developer from Russia 🇷🇺](https://drive.google.com/file/d/13BlXABeFDLmlmFVXiWZv0k3DE7MJ9oBK/view?usp=sharing)
-
+![I am mobile developer from Russia 🇷🇺]
 18 years dev from NUST MISIS 🏫
 
 Skills: Flutter / Bloc / Git / Figma
