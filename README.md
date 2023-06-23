@@ -4,7 +4,7 @@
 
 Skills: IOS / Swift / SwiftUi / Flutter / Bloc / Git / Figma
 
-- 🔭 I’m currently working on ITAM 
+- 🔭 I’m currently working in ITAM 
 - 🌱 I’m currently learning IOS
 - 📫 How to reach me: zahar@raynelz.ru 
 
