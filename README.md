@@ -2,7 +2,7 @@
 #### A mobile developer from Russia 🇷🇺
 18 years dev from NUST MISIS 🏫
 
-Skills: IOS / Swift / SwiftUi / Flutter / Bloc / Git / Figma
+Skills: IOS / Swift / SwiftUi / Git / Figma
 
 - 🔭 I’m currently working in ITAM 
 - 🌱 I’m currently learning IOS
