@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Zahar Litvinchuk
-#### A mobile developer from Russia 🇷🇺
-18 years dev from NUST MISIS 🏫
+#### A iOS developer from Russia 🇷🇺
+19 years dev from NUST MISIS 🏫
 
-Skills: Swift / UIKit / SwiftUI / Git / Figma
+Skills: Swift / UIKit / Git / Figma
 
 - 🔭 I’m currently working in ITAM 
 - 📫 How to reach me: zahar@raynelz.ru 
