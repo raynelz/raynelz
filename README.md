@@ -6,5 +6,3 @@ Skills: Swift / UIKit / SnapKit / Git / Figma
 
 - 🔭 I’m currently working in ITAM 
 - 📫 How to reach me: zahar@raynelz.ru 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raynelz&show_icons=true)  
